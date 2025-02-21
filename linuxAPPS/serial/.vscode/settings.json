@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "wiringserial.h": "c",
+        "termios.h": "c"
+    }
+}
